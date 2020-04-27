@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "memory": "cpp",
+        "regex": "cpp",
+        "utility": "cpp",
+        "vector": "cpp",
+        "string": "cpp",
+        "random": "cpp",
+        "iostream": "cpp",
+        "algorithm": "cpp",
+        "unordered_map": "cpp",
+        "ostream": "cpp"
+    }
+}
